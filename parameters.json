@@ -71,7 +71,7 @@
             "value": "Premium_LRS"
         },
         "virtualMachineSize": {
-            "value": "Standard_B1s"
+            "value": "Standard_B2ms"
         },
         "adminUsername": {
             "value": "chalapathi471"
